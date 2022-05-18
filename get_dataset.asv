@@ -1,0 +1,2 @@
+dataset = readtable("Dataset Hostel Jepang.xlsx")
+dataset = removevars(dataset, ["Var1" "lon
